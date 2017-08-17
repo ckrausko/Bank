@@ -1,0 +1,4 @@
+C:\Users\Cody\Documents\MEGA\Code\C#\Bank\Bank\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Cody\Documents\MEGA\Code\C#\Bank\Bank\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Cody\Documents\MEGA\Code\C#\Bank\Bank\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Cody\Documents\MEGA\Code\C#\Bank\Bank\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

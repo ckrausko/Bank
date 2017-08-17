@@ -1,0 +1,7 @@
+C:\Users\Cody\Documents\MEGA\Code\C#\Bank\Bank\BankUnitTest\obj\Debug\BankUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Cody\Documents\MEGA\Code\C#\Bank\Bank\BankUnitTest\bin\Debug\BankUnitTest.dll
+C:\Users\Cody\Documents\MEGA\Code\C#\Bank\Bank\BankUnitTest\bin\Debug\BankUnitTest.pdb
+C:\Users\Cody\Documents\MEGA\Code\C#\Bank\Bank\BankUnitTest\bin\Debug\ClassLibrary1.dll
+C:\Users\Cody\Documents\MEGA\Code\C#\Bank\Bank\BankUnitTest\bin\Debug\ClassLibrary1.pdb
+C:\Users\Cody\Documents\MEGA\Code\C#\Bank\Bank\BankUnitTest\obj\Debug\BankUnitTest.dll
+C:\Users\Cody\Documents\MEGA\Code\C#\Bank\Bank\BankUnitTest\obj\Debug\BankUnitTest.pdb
